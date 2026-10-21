@@ -2,7 +2,7 @@
 
 Jordan Salter · M.S. Statistics, USC · October 2026
 
-I built a Stuff+ model (along with Location+ and Pitching+) from every MLB pitch thrown in 2025 and 2026, about 1.4 million pitches. Then I used it to answer a more practical question: for a specific pitcher, which change to his arsenal would help him the most?
+I built a Stuff+ model (along with Location+ and Pitching+) from every MLB pitch thrown in 2025 and 2026 regular seasons, of specific pitchers. Then I used it to answer a more practical question: for a specific pitcher, which change to his arsenal would help him the most?
 
 Stuff+ leaderboards tell you who has good stuff, but they don't tell a pitcher what to work on. So for every pitcher with at least 800 pitches in 2026, I tested two kinds of changes:
 
