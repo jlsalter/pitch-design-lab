@@ -1,0 +1,7 @@
+data/*
+!data/README.md
+!data/processed/
+models/
+__pycache__/
+*.log
+.DS_Store

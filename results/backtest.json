@@ -1,0 +1,182 @@
+{
+ "note": "runs per 100 pitches, pitcher's perspective; slope = actual change per 1 run/100 of predicted change (1 = perfectly calibrated); weighted by 1/(1/n25 + 1/n26); 90% CIs from a pitcher bootstrap",
+ "min_pitches_each_season": 500,
+ "bootstrap": 4000,
+ "results": [
+  {
+   "group": "all pitchers",
+   "pitchers": 324,
+   "slope": 1.351,
+   "slope_90ci": [
+    0.917,
+    1.746
+   ],
+   "slope_boot_p_le_0": 0.0,
+   "slope_controlling_2025_results": 1.112,
+   "slope_controlling_90ci": [
+    0.738,
+    1.479
+   ],
+   "slope_actual_not_denoised": 0.665,
+   "slope_actual_not_denoised_90ci": [
+    0.036,
+    1.283
+   ],
+   "corr": 0.265,
+   "corr_90ci": [
+    0.181,
+    0.344
+   ],
+   "predicted_better_n": 137,
+   "predicted_better_actual_change": 0.116,
+   "predicted_worse_n": 187,
+   "predicted_worse_actual_change": -0.236,
+   "better_minus_worse": 0.352,
+   "better_minus_worse_90ci": [
+    0.221,
+    0.485
+   ],
+   "pred_change_sd": 0.139
+  },
+  {
+   "group": "made a real change",
+   "pitchers": 174,
+   "slope": 1.347,
+   "slope_90ci": [
+    0.776,
+    1.875
+   ],
+   "slope_boot_p_le_0": 0.0003,
+   "slope_controlling_2025_results": 1.037,
+   "slope_controlling_90ci": [
+    0.561,
+    1.493
+   ],
+   "slope_actual_not_denoised": 0.44,
+   "slope_actual_not_denoised_90ci": [
+    -0.446,
+    1.282
+   ],
+   "corr": 0.273,
+   "corr_90ci": [
+    0.149,
+    0.383
+   ],
+   "predicted_better_n": 79,
+   "predicted_better_actual_change": 0.114,
+   "predicted_worse_n": 95,
+   "predicted_worse_actual_change": -0.144,
+   "better_minus_worse": 0.258,
+   "better_minus_worse_90ci": [
+    0.074,
+    0.442
+   ],
+   "pred_change_sd": 0.149
+  },
+  {
+   "group": "added a new pitch",
+   "pitchers": 85,
+   "slope": 1.646,
+   "slope_90ci": [
+    0.913,
+    2.255
+   ],
+   "slope_boot_p_le_0": 0.0,
+   "slope_controlling_2025_results": 1.184,
+   "slope_controlling_90ci": [
+    0.573,
+    1.754
+   ],
+   "slope_actual_not_denoised": 0.518,
+   "slope_actual_not_denoised_90ci": [
+    -0.688,
+    1.647
+   ],
+   "corr": 0.371,
+   "corr_90ci": [
+    0.204,
+    0.524
+   ],
+   "predicted_better_n": 40,
+   "predicted_better_actual_change": 0.294,
+   "predicted_worse_n": 45,
+   "predicted_worse_actual_change": -0.038,
+   "better_minus_worse": 0.332,
+   "better_minus_worse_90ci": [
+    0.07,
+    0.594
+   ],
+   "pred_change_sd": 0.158
+  },
+  {
+   "group": "changed fastball",
+   "pitchers": 129,
+   "slope": 1.422,
+   "slope_90ci": [
+    0.727,
+    2.079
+   ],
+   "slope_boot_p_le_0": 0.002,
+   "slope_controlling_2025_results": 1.147,
+   "slope_controlling_90ci": [
+    0.565,
+    1.683
+   ],
+   "slope_actual_not_denoised": 0.494,
+   "slope_actual_not_denoised_90ci": [
+    -0.566,
+    1.617
+   ],
+   "corr": 0.284,
+   "corr_90ci": [
+    0.139,
+    0.415
+   ],
+   "predicted_better_n": 57,
+   "predicted_better_actual_change": 0.127,
+   "predicted_worse_n": 72,
+   "predicted_worse_actual_change": -0.2,
+   "better_minus_worse": 0.327,
+   "better_minus_worse_90ci": [
+    0.098,
+    0.558
+   ],
+   "pred_change_sd": 0.155
+  },
+  {
+   "group": "no major change",
+   "pitchers": 150,
+   "slope": 1.314,
+   "slope_90ci": [
+    0.732,
+    1.948
+   ],
+   "slope_boot_p_le_0": 0.0008,
+   "slope_controlling_2025_results": 1.187,
+   "slope_controlling_90ci": [
+    0.591,
+    1.81
+   ],
+   "slope_actual_not_denoised": 0.899,
+   "slope_actual_not_denoised_90ci": [
+    -0.023,
+    1.743
+   ],
+   "corr": 0.249,
+   "corr_90ci": [
+    0.131,
+    0.358
+   ],
+   "predicted_better_n": 58,
+   "predicted_better_actual_change": 0.118,
+   "predicted_worse_n": 92,
+   "predicted_worse_actual_change": -0.331,
+   "better_minus_worse": 0.449,
+   "better_minus_worse_90ci": [
+    0.275,
+    0.618
+   ],
+   "pred_change_sd": 0.128
+  }
+ ]
+}

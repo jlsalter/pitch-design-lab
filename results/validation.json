@@ -1,0 +1,75 @@
+{
+ "scale": {
+  "x_stuff": [
+   -0.00010814302080876535,
+   0.0031232924312235523
+  ],
+  "xs_stuff": [
+   1.194045638267175e-07,
+   0.0032229456723408215
+  ],
+  "x_location": [
+   -2.0122704249901442e-05,
+   0.0031644734048524885
+  ],
+  "xs_location": [
+   1.8283836614456279e-07,
+   0.0031721593966188093
+  ],
+  "x_pitching": [
+   -9.267680050177152e-05,
+   0.004307548453747789
+  ],
+  "xs_pitching": [
+   1.2858902546550445e-06,
+   0.004273033374839907
+  ]
+ },
+ "reliability": {
+  "stuff": {
+   "split_half_r": 0.956,
+   "pitches_for_r_0.7": 76
+  },
+  "location": {
+   "split_half_r": 0.633,
+   "pitches_for_r_0.7": 965
+  },
+  "pitching": {
+   "split_half_r": 0.782,
+   "pitches_for_r_0.7": 464
+  },
+  "rv": {
+   "split_half_r": 0.208,
+   "pitches_for_r_0.7": 6347
+  },
+  "pitchers": 852,
+  "avg_pitches_per_half": 713
+ },
+ "next_season": {
+  "Stuff+ 2025": {
+   "r_with_2026_run_value": 0.336,
+   "r_with_2026_k_bb": 0.441
+  },
+  "Location+ 2025": {
+   "r_with_2026_run_value": 0.088,
+   "r_with_2026_k_bb": 0.103
+  },
+  "Pitching+ 2025": {
+   "r_with_2026_run_value": 0.33,
+   "r_with_2026_k_bb": 0.432
+  },
+  "Run value/100 2025": {
+   "r_with_2026_run_value": 0.228,
+   "r_with_2026_k_bb": 0.28
+  },
+  "K-BB% 2025": {
+   "r_with_2026_run_value": 0.322,
+   "r_with_2026_k_bb": 0.534
+  },
+  "FIP-style rate 2025 (negated)": {
+   "r_with_2026_run_value": 0.256,
+   "r_with_2026_k_bb": 0.351
+  }
+ },
+ "n_pitchers_both_seasons": 324
+}

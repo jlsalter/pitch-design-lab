@@ -1,0 +1,334 @@
+pitcher,name,team,throws,pitches,stuff_plus,best_tweak,tweak_runs,best_new_pitch,new_pitch_runs,best_runs
+702070,Noah Cameron,KC,L,2868,93.2,four-seamer: +2 in ride,4.8,sweeper,7.93,7.93
+804267,Zac Thornton,NYM,L,1256,90.6,four-seamer: +2 in arm-side run,1.27,splitter,7.88,7.88
+680732,Sean Burke,CWS,R,2878,94.2,four-seamer: +1 mph,1.93,sweeper,7.68,7.68
+693645,Cam Schlittler,NYY,R,3004,106.8,sinker: +2 in arm-side run,1.73,sweeper,7.43,7.43
+690986,Kyle Harrison,MIL,L,2106,109.0,four-seamer: +2 in ride,7.04,sweeper,0.29,7.04
+641793,Zack Littell,WSH,R,1956,84.2,slider: +3 in sweep,2.21,curveball,7.0,7.0
+669022,MacKenzie Gore,TEX,L,2947,91.0,four-seamer: +2 in ride,6.94,sweeper,1.23,6.94
+700712,Walbert Ureña,LAA,R,2410,97.1,changeup: -1.5 mph (more separation),1.73,curveball,6.7,6.7
+650633,Michael King,SD,R,2875,94.6,four-seamer: +1 mph,1.91,curveball,6.53,6.53
+677952,Braxton Ashcraft,PIT,R,2413,106.7,four-seamer: +2 in ride,6.48,sweeper,3.1,6.48
+694819,Jacob Misiorowski,MIL,R,2647,119.0,slider: +3 in depth,0.53,sweeper,6.38,6.38
+667755,José Soriano,LAA,R,2872,93.8,four-seamer: +2 in ride,2.81,sweeper,6.37,6.37
+680755,Braydon Fisher,TOR,R,1256,106.3,slider: +3 in depth,2.53,splitter,5.99,5.99
+608379,Michael Wacha,KC,R,3028,92.2,four-seamer: +2 in arm-side run,1.46,sweeper,5.98,5.98
+669372,J.T. Ginn,ATH,R,2185,90.1,sinker: +2 in arm-side run,3.12,curveball,5.94,5.94
+645261,Sandy Alcantara,MIA,R,3293,96.7,four-seamer: +2 in ride,2.71,curveball,5.88,5.88
+694973,Paul Skenes,PIT,R,2889,106.8,four-seamer: +2 in ride,5.77,curveball,-0.52,5.77
+622491,Luis Castillo,SEA,R,2356,91.6,changeup: +2 in drop,0.75,sweeper,5.58,5.58
+671096,Andrew Abbott,CIN,L,2854,94.2,four-seamer: +2 in ride,5.5,cutter,-0.2,5.5
+621237,José Alvarado,PHI,L,1127,99.8,,,changeup,5.47,5.47
+642232,Ryan Yarbrough,NYY,L,1059,96.9,four-seamer: +2 in ride,0.69,curveball,5.46,5.46
+665795,Edward Cabrera,CHC,R,1353,91.5,four-seamer: +2 in ride,1.01,sweeper,5.38,5.38
+593958,Eduardo Rodriguez,AZ,L,3065,83.4,four-seamer: +2 in ride,4.97,sweeper,5.34,5.34
+666200,Jesús Luzardo,PHI,L,2857,102.5,four-seamer: +2 in ride,5.18,curveball,2.22,5.18
+669330,Tyler Wells,TB,R,1064,89.5,,,sweeper,4.89,4.89
+641743,Anthony Kay,CWS,L,2787,90.9,four-seamer: +2 in ride,4.86,curveball,2.83,4.86
+668909,Gavin Williams,CLE,R,2960,109.8,four-seamer: +2 in ride,4.73,changeup,1.45,4.73
+674444,Steven Cruz,KC,R,930,105.7,four-seamer: +2 in arm-side run,0.83,curveball,4.68,4.68
+605400,Aaron Nola,PHI,R,2849,100.2,sinker: +1 mph,1.17,sweeper,4.64,4.64
+663556,Shane McClanahan,TB,L,1830,97.9,four-seamer: +2 in ride,3.57,sweeper,4.61,4.61
+650911,Cristopher Sánchez,PHI,L,3158,106.8,sinker: +1 mph,4.34,sweeper,0.67,4.34
+676917,Cade Cavalli,WSH,R,2770,104.0,four-seamer: +2 in ride,4.32,,,4.32
+622608,Antonio Senzatela,COL,R,1165,89.1,four-seamer: +2 in ride,1.22,slider,4.3,4.3
+594798,Jacob deGrom,TEX,R,2735,112.0,slider: +3 in depth,4.3,sweeper,1.85,4.3
+682052,Jacob Lopez,ATH,L,2219,103.5,four-seamer: +2 in ride,2.91,curveball,4.27,4.27
+681911,Alex Vesia,LAD,L,1011,117.6,,,sweeper,4.26,4.26
+607067,Colin Rea,CHC,R,2223,95.9,four-seamer: +2 in ride,4.25,,,4.25
+680570,Grayson Rodriguez,LAA,R,1771,99.1,four-seamer: +2 in ride,4.24,sweeper,0.91,4.24
+666157,Nick Lodolo,CIN,L,1898,97.7,,,sweeper,4.22,4.22
+808963,Roki Sasaki,LAD,R,2100,117.5,four-seamer: +2 in ride,4.16,sweeper,0.63,4.16
+696270,Ryan Johnson,LAA,R,1722,100.8,,,curveball,4.13,4.13
+691799,Grant Taylor,CWS,R,1333,120.0,four-seamer: +2 in ride,1.81,changeup,4.13,4.13
+683003,Jared Jones,PIT,R,1632,110.1,four-seamer: +2 in ride,4.12,sweeper,1.14,4.12
+700241,Michael McGreevy,STL,R,2773,82.5,four-seamer: +2 in ride,4.05,,,4.05
+694738,Landen Roupp,SF,R,2692,95.9,four-seamer: +2 in ride,0.5,slider,3.99,3.99
+623454,Drew Anderson,DET,R,1769,102.2,four-seamer: +2 in ride,3.1,sweeper,3.96,3.96
+664199,Taylor Clarke,AZ,R,1055,88.8,sinker: +2 in arm-side run,1.34,sweeper,3.96,3.96
+663436,Davis Martin,CWS,R,2261,87.1,four-seamer: +2 in ride,3.95,sweeper,1.44,3.95
+670970,Adrian Morejon,SD,L,1289,120.5,four-seamer: +2 in ride,0.84,sweeper,3.91,3.91
+820862,José Fermin,LAA,R,958,97.9,slider: +3 in depth,3.86,sweeper,3.88,3.88
+669923,George Kirby,SEA,R,2744,106.6,four-seamer: +2 in ride,3.87,splitter,-0.79,3.87
+669461,Matthew Liberatore,STL,L,2593,96.6,slider: +1.5 mph,2.12,sweeper,3.83,3.83
+696149,Bubba Chandler,PIT,R,2685,106.6,slider: +3 in depth,2.33,sweeper,3.81,3.81
+519242,Chris Sale,ATL,L,2543,113.6,,,sweeper,3.74,3.74
+672282,Reid Detmers,LAA,L,2950,98.7,slider: +1.5 mph,3.66,sweeper,0.37,3.66
+543135,Nathan Eovaldi,TEX,R,2219,96.0,splitter: +2 in drop,3.62,sweeper,2.43,3.62
+656605,Mitch Keller,PIT,R,1887,92.6,four-seamer: +2 in ride,3.61,,,3.61
+656550,Grant Holmes,ATL,R,2382,87.1,four-seamer: +2 in ride,3.59,sweeper,2.35,3.59
+675512,Troy Melton,DET,R,1773,98.7,four-seamer: +2 in ride,2.82,sweeper,3.46,3.46
+678022,Jack Perkins,ATH,R,2065,103.9,four-seamer: +2 in ride,3.44,curveball,2.63,3.44
+676282,Joey Cantillo,CLE,L,2747,99.9,four-seamer: +2 in ride,3.44,sweeper,2.87,3.44
+641778,Eric Lauer,TOR,L,1814,78.1,four-seamer: +2 in ride,3.44,sweeper,1.29,3.44
+657277,Logan Webb,SF,R,2486,98.0,four-seamer: +1 mph,1.13,curveball,3.44,3.44
+670950,Trevor Richards,CWS,R,1302,97.4,four-seamer: +1 mph,0.33,sweeper,3.43,3.43
+686613,Hunter Brown,HOU,R,1859,102.8,four-seamer: +2 in ride,3.39,sweeper,-0.03,3.39
+687570,Connor Prielipp,MIN,L,2067,89.1,four-seamer: +2 in ride,3.37,sweeper,0.57,3.37
+571945,Miles Mikolas,WSH,R,1824,87.4,four-seamer: +2 in ride,3.36,cutter,-0.72,3.36
+667297,Tommy Nance,TOR,R,964,107.6,slider: +3 in sweep,1.25,sweeper,3.35,3.35
+681517,Kyle Leahy,STL,R,2326,95.4,four-seamer: +2 in ride,3.32,cutter,-2.56,3.32
+690997,Nolan McLean,NYM,R,2910,110.4,four-seamer: +2 in ride,3.3,,,3.3
+694477,Chad Patrick,MIL,R,1730,92.0,sinker: +2 in arm-side run,1.87,sweeper,3.3,3.3
+669302,Logan Gilbert,SEA,R,2957,106.3,four-seamer: +1 mph,3.3,curveball,0.32,3.3
+685299,Tanner Gordon,COL,R,1691,90.0,four-seamer: +2 in ride,3.22,sweeper,1.29,3.22
+641927,Bailey Ober,MIN,R,2098,92.1,four-seamer: +1 mph,0.96,curveball,3.22,3.22
+656288,Griffin Canning,SD,R,1544,97.4,four-seamer: +2 in ride,3.18,sweeper,-0.37,3.18
+592332,Kevin Gausman,TOR,R,3003,94.9,four-seamer: +1 mph,3.15,sweeper,0.53,3.15
+663687,Hogan Harris,ATH,L,1333,103.4,four-seamer: +1 mph,1.69,splitter,3.15,3.15
+592662,Robbie Ray,SF,L,2853,88.5,sinker: +1 mph,1.58,sweeper,3.09,3.09
+687562,Jake Bennett,BOS,L,1618,94.2,four-seamer: +2 in ride,1.55,curveball,3.07,3.07
+677958,Kumar Rocker,TEX,R,2496,85.4,sinker: +1 mph,1.44,splitter,3.07,3.07
+656302,Dylan Cease,TOR,R,2888,111.8,slider: +3 in depth,2.39,sweeper,3.06,3.06
+608372,Tomoyuki Sugano,COL,R,2511,84.8,four-seamer: +2 in ride,3.04,,,3.04
+815083,Mitch Farris,LAA,L,953,90.0,four-seamer: +1 mph,0.53,sweeper,3.02,3.02
+641302,Tyler Alexander,TEX,L,1200,91.9,cutter: +2 in cut,0.81,curveball,2.97,2.97
+615698,Cal Quantrill,TEX,R,1669,88.5,four-seamer: +2 in ride,2.94,sweeper,1.38,2.94
+805673,Zebby Matthews,MIN,R,2117,91.0,four-seamer: +1 mph,2.35,sweeper,2.93,2.93
+680694,Kyle Bradish,BAL,R,2619,106.1,sinker: +2 in arm-side run,2.87,splitter,-1.51,2.87
+700669,Gordon Graceffo,STL,R,1222,96.2,four-seamer: +2 in ride,2.86,sweeper,0.4,2.86
+656492,Foster Griffin,WSH,L,2832,90.9,four-seamer: +2 in ride,2.86,,,2.86
+607259,Nick Martinez,TB,R,2517,96.4,four-seamer: +2 in ride,1.6,slider,2.85,2.85
+666808,Camilo Doval,NYY,R,1025,105.2,sinker: +2 in sink,0.41,sweeper,2.82,2.82
+643377,Griffin Jax,TB,R,1724,111.9,four-seamer: +1 mph,2.8,cutter,0.08,2.8
+621111,Walker Buehler,SD,R,2591,92.4,four-seamer: +2 in ride,2.8,,,2.8
+808967,Yoshinobu Yamamoto,LAD,R,2731,106.1,sinker: +1 mph,1.28,sweeper,2.77,2.77
+837227,Tatsuya Imai,HOU,R,1451,87.0,four-seamer: +2 in ride,2.77,curveball,2.16,2.77
+607200,Erick Fedde,CWS,R,2412,91.0,sinker: +1 mph,1.38,curveball,2.76,2.76
+701542,Will Warren,NYY,R,2571,109.2,sinker: +1 mph,2.7,cutter,-1.34,2.7
+669358,Shane Baz,BAL,R,2909,102.3,four-seamer: +1 mph,2.69,sweeper,2.3,2.69
+607536,Kyle Freeland,COL,L,2187,86.8,four-seamer: +2 in ride,2.68,,,2.68
+675848,Juan Mejia,COL,R,1303,92.5,four-seamer: +2 in ride,1.17,curveball,2.68,2.68
+801139,Payton Tolle,BOS,L,2275,100.3,four-seamer: +1 mph,2.07,sweeper,2.66,2.66
+656849,David Peterson,NYM,L,2476,87.2,sinker: +2 in arm-side run,2.65,sweeper,1.95,2.65
+571510,Matthew Boyd,CHC,L,1957,95.7,four-seamer: +2 in ride,2.64,sweeper,0.86,2.64
+693821,Bryce Elder,ATL,R,2245,90.7,four-seamer: +2 in ride,2.64,sweeper,1.87,2.64
+543243,Sonny Gray,BOS,R,2470,103.9,sinker: +2 in arm-side run,2.61,,,2.61
+675660,Shane Drohan,MIL,L,1876,92.8,four-seamer: +2 in ride,2.6,changeup,1.63,2.6
+666661,Juan Morillo,AZ,R,1020,108.6,four-seamer: +2 in ride,2.58,sweeper,2.05,2.58
+695076,Rhett Lowder,CIN,R,2296,87.7,four-seamer: +2 in ride,1.81,sweeper,2.58,2.58
+605288,Adrian Houser,SF,R,1729,89.6,four-seamer: +1 mph,2.57,sweeper,0.52,2.57
+628452,Raisel Iglesias,ATL,R,893,95.9,changeup: +2 in drop,0.74,sweeper,2.54,2.54
+640455,Sean Manaea,NYM,L,2493,101.8,four-seamer: +2 in arm-side run,2.54,changeup,0.83,2.54
+686799,Jack Kochanowicz,LAA,R,1105,88.8,four-seamer: +1 mph,1.65,sweeper,2.5,2.5
+702193,Andrew Morris,MIN,R,1295,99.1,four-seamer: +2 in ride,2.49,curveball,-0.89,2.49
+687064,Brandon Young,BAL,R,2530,93.2,four-seamer: +1 mph,1.44,sweeper,2.46,2.46
+661395,Jhoan Duran,PHI,R,938,120.2,splitter: +2 in drop,2.46,cutter,-4.29,2.46
+676440,Tanner Bibee,CLE,R,2966,102.6,four-seamer: +2 in ride,2.42,,,2.42
+683769,Hunter Gaddis,CLE,R,982,107.0,slider: +3 in depth,2.11,sweeper,2.41,2.41
+681190,Randy Vásquez,SD,R,2226,92.9,sinker: +1 mph,1.11,sweeper,2.39,2.39
+664285,Framber Valdez,DET,L,2754,91.4,curveball: +1.5 mph,1.22,sweeper,2.35,2.35
+676760,Ron Marinaccio,SD,R,1018,109.4,four-seamer: +2 in ride,2.31,curveball,-0.37,2.31
+656876,Drew Rasmussen,TB,R,2596,110.7,sinker: +1 mph,2.29,sweeper,2.24,2.29
+805123,AJ Blubaugh,HOU,R,1640,108.5,four-seamer: +1 mph,2.27,curveball,-2.91,2.27
+622554,Seranthony Domínguez,CWS,R,1106,109.0,four-seamer: +2 in ride,2.25,curveball,-1.35,2.25
+660271,Shohei Ohtani,LAD,R,1335,112.9,four-seamer: +2 in ride,2.25,cutter,-6.26,2.25
+686218,Emmet Sheehan,LAD,R,1954,110.3,four-seamer: +1 mph,2.24,sweeper,1.25,2.24
+656464,Kevin Ginkel,AZ,R,1088,99.7,four-seamer: +2 in ride,2.24,splitter,1.69,2.24
+696147,Sam Bachman,LAA,R,827,106.7,slider: +3 in sweep,0.54,curveball,2.22,2.22
+674841,Andrew Alvarez,WSH,L,1856,96.1,four-seamer: +2 in ride,2.2,sweeper,0.37,2.2
+673540,Kodai Senga,NYM,R,1129,104.8,four-seamer: +2 in ride,2.2,curveball,-3.72,2.2
+676879,Aaron Ashby,MIL,L,1566,116.1,curveball: +3 in sweep,0.88,sweeper,2.17,2.17
+688642,Zach Agnos,COL,R,1502,87.2,four-seamer: +2 in ride,1.25,curveball,2.17,2.17
+663738,Daniel Lynch IV,KC,L,1300,92.6,four-seamer: +2 in ride,1.4,sweeper,2.14,2.14
+663554,Casey Mize,DET,R,2080,95.2,splitter: +2 in drop,1.91,sweeper,2.14,2.14
+593974,Wandy Peralta,SD,L,1208,99.9,sinker: +2 in sink,0.82,sweeper,2.13,2.13
+669387,Carmen Mlodzinski,PIT,R,2080,95.4,four-seamer: +2 in ride,2.13,,,2.13
+642547,Freddy Peralta,TB,R,2931,109.7,changeup: +2 in drop,2.1,cutter,-0.27,2.1
+641816,Tyler Mahle,SF,R,2308,96.0,four-seamer: +1 mph,1.97,sweeper,2.1,2.1
+800048,Parker Messick,CLE,L,2940,92.1,four-seamer: +1 mph,1.78,sweeper,2.09,2.09
+686790,Trevor McDonald,SF,R,1137,89.0,slider: +1.5 mph,0.66,curveball,2.09,2.09
+668678,Zac Gallen,AZ,R,1730,90.2,slider: +3 in depth,1.6,sweeper,2.07,2.07
+684007,Shota Imanaga,CHC,L,2715,95.5,four-seamer: +1 mph,2.06,curveball,1.56,2.06
+518876,Merrill Kelly,AZ,R,2615,100.9,slider: +3 in sweep,0.7,sweeper,2.05,2.05
+453286,Max Scherzer,TOR,R,1461,101.0,four-seamer: +1 mph,0.97,sweeper,2.05,2.05
+662253,Andrés Muñoz,SEA,R,953,125.4,four-seamer: +2 in ride,2.04,sweeper,2.0,2.04
+670280,David Bednar,NYY,R,1154,107.6,splitter: +2 in drop,1.61,sweeper,2.04,2.04
+695611,Gage Jump,ATH,L,1756,102.2,four-seamer: +1 mph,2.02,cutter,-1.03,2.02
+666277,George Soriano,STL,R,1142,103.6,four-seamer: +2 in ride,2.02,curveball,0.46,2.02
+656271,Brock Burke,CIN,L,1180,94.5,four-seamer: +2 in ride,2.02,sweeper,1.63,2.02
+678906,Kai-Wei Teng,HOU,R,1266,102.2,four-seamer: +2 in ride,1.97,cutter,-5.83,1.97
+699134,Bradgley Rodriguez,SD,R,1162,110.7,changeup: +2 in drop,0.72,sweeper,1.97,1.97
+702056,Trey Yesavage,TOR,R,1619,119.9,,,sweeper,1.97,1.97
+676263,Jack Dreyer,LAD,L,1037,107.6,slider: +3 in depth,0.96,splitter,1.94,1.94
+608566,Germán Márquez,SD,R,813,88.1,four-seamer: +2 in ride,1.93,splitter,0.62,1.93
+676962,Ben Brown,CHC,R,1004,102.7,four-seamer: +2 in ride,1.92,sweeper,1.24,1.92
+579328,Yusei Kikuchi,LAA,L,1164,94.2,four-seamer: +1 mph,1.92,sweeper,-0.14,1.92
+680573,Simeon Woods Richardson,TOR,R,1161,95.1,slider: +3 in depth,0.9,sweeper,1.91,1.91
+608331,Max Fried,NYY,L,1696,95.8,four-seamer: +2 in ride,1.91,,,1.91
+701519,Travis Adams,MIN,R,908,90.4,slider: +3 in depth,0.52,sweeper,1.9,1.9
+670990,Yohan Ramírez,PIT,R,1410,119.0,four-seamer: +2 in ride,1.9,cutter,-3.63,1.9
+572955,Pierce Johnson,CIN,R,836,104.8,curveball: +3 in depth,1.89,changeup,-1.68,1.89
+665622,Luis Medina,ATH,R,1270,105.8,four-seamer: +2 in ride,1.63,sweeper,1.89,1.89
+500779,Jose Quintana,COL,L,816,77.4,four-seamer: +2 in ride,0.83,sweeper,1.89,1.89
+547179,Michael Lorenzen,COL,R,2399,87.1,four-seamer: +2 in ride,1.89,,,1.89
+688107,Robert Gasser,MIL,L,1817,101.9,sinker: +1 mph,1.49,curveball,1.88,1.88
+607192,Tyler Glasnow,LAD,R,1149,101.2,four-seamer: +2 in ride,1.15,changeup,1.88,1.88
+665871,Javier Assad,CHC,R,1506,99.0,four-seamer: +2 in ride,1.88,,,1.88
+663372,Ryan Feltner,COL,R,2049,95.9,four-seamer: +1 mph,1.87,curveball,0.54,1.87
+640448,Kyle Finnegan,DET,R,1062,107.2,four-seamer: +1 mph,1.84,sweeper,0.24,1.84
+672456,Keider Montero,DET,R,2302,91.9,sinker: +1 mph,1.83,sweeper,1.06,1.83
+680736,Justin Wrobleski,LAD,L,2137,89.0,four-seamer: +1 mph,1.83,curveball,0.94,1.83
+596001,Jakob Junis,TEX,R,844,89.2,four-seamer: +2 in ride,1.17,curveball,1.82,1.82
+669373,Tarik Skubal,DET,L,2356,103.1,changeup: +2 in fade,1.82,sweeper,1.4,1.82
+668674,Lucas Erceg,KC,R,901,100.5,four-seamer: +2 in ride,1.04,sweeper,1.81,1.81
+669467,Andre Pallante,STL,R,2627,99.3,slider: +3 in depth,1.81,changeup,1.31,1.81
+681347,Mike Burrows,HOU,R,1560,92.6,slider: +3 in sweep,1.0,sweeper,1.79,1.79
+678394,Brayan Bello,BOS,R,1899,94.4,sinker: +1 mph,1.77,curveball,1.77,1.77
+663855,Jordan Hicks,CWS,R,881,109.6,four-seamer: +2 in ride,0.78,curveball,1.76,1.76
+642528,Jonathan Loáisiga,AZ,R,928,107.2,changeup: -1.5 mph (more separation),0.82,sweeper,1.75,1.75
+641755,Tyler Kinley,ATL,R,909,108.2,slider: +3 in depth,1.75,,,1.75
+668941,JoJo Romero,STL,L,922,95.6,sinker: +1 mph,0.48,curveball,1.75,1.75
+665152,Dean Kremer,BAL,R,1465,93.1,slider: +3 in depth,1.07,sweeper,1.74,1.74
+669160,Dustin May,STL,R,2398,106.8,cutter: +2 in cut,1.73,,,1.73
+656730,Trevor Megill,MIL,R,873,126.3,four-seamer: +2 in arm-side run,-1.09,sweeper,1.73,1.73
+656641,Jacob Latz,TEX,L,1128,103.6,four-seamer: +1 mph,1.72,sweeper,0.77,1.72
+682243,Bryce Miller,SEA,R,1884,106.9,four-seamer: +1 mph,1.72,curveball,-1.0,1.72
+695505,Chase Burns,CIN,R,2552,119.3,slider: +3 in depth,1.7,sweeper,-2.76,1.7
+682120,Tim Herrin,CLE,L,983,89.6,slider: +3 in sweep,0.76,sweeper,1.67,1.67
+663903,Brady Singer,CIN,R,2799,88.4,sinker: +2 in arm-side run,1.66,curveball,1.45,1.66
+677944,Slade Cecconi,CLE,R,2003,91.5,cutter: +2 in cut,1.25,splitter,1.66,1.66
+670245,Ryan Watson,BOS,R,1138,99.4,cutter: +2 in cut,0.63,splitter,1.62,1.62
+663776,Patrick Sandoval,BOS,L,1219,96.1,four-seamer: +2 in ride,1.62,curveball,-1.57,1.62
+680767,Victor Vodnik,MIA,R,1027,112.5,four-seamer: +2 in ride,1.61,sweeper,1.58,1.61
+695418,Brad Lord,WSH,R,1463,92.7,sinker: +1 mph,1.6,curveball,-0.34,1.6
+694297,Brandon Pfaadt,AZ,R,1976,95.3,four-seamer: +2 in arm-side run,1.59,,,1.59
+663558,Jovani Morán,BOS,L,1061,94.1,changeup: -1.5 mph (more separation),0.75,sweeper,1.57,1.57
+660853,Enyel De Los Santos,HOU,R,1153,105.1,four-seamer: +1 mph,1.56,curveball,0.14,1.56
+657097,Jacob Webb,CHC,R,1139,112.4,four-seamer: +1 mph,0.69,sweeper,1.53,1.53
+677976,Randy Dobnak,KC,R,1264,88.4,sinker: +1 mph,0.2,curveball,1.52,1.52
+665660,Elvis Alvarado,ATH,R,951,108.4,,,sweeper,1.52,1.52
+676106,Emerson Hancock,SEA,R,2171,99.9,,,curveball,1.52,1.52
+693686,Spencer Miles,TOR,R,1502,100.7,four-seamer: +2 in ride,1.51,sweeper,-0.01,1.51
+681892,Kody Funderburk,MIN,L,876,90.7,cutter: +2 in cut,0.95,curveball,1.51,1.51
+671737,Taj Bradley,MIN,R,2906,109.2,four-seamer: +2 in arm-side run,1.15,sweeper,1.5,1.5
+527048,Martín Pérez,ATL,L,2244,87.6,cutter: +2 in cut,1.5,sweeper,1.16,1.5
+681035,Christian Scott,NYM,R,1889,112.0,four-seamer: +1 mph,1.48,splitter,0.44,1.48
+647336,Michael Soroka,AZ,R,1836,97.5,cutter: +2 in cut,0.59,sweeper,1.48,1.48
+624133,Ranger Suarez,BOS,L,2384,87.7,cutter: +2 in cut,1.48,sweeper,0.92,1.48
+625643,Reynaldo López,ATL,R,1368,92.4,four-seamer: +1 mph,1.47,changeup,0.7,1.47
+607625,Seth Lugo,KC,R,2793,93.5,cutter: +2 in cut,1.47,,,1.47
+701656,Logan Henderson,MIL,R,1505,102.9,four-seamer: +1 mph,1.46,sweeper,1.28,1.46
+663969,Tyler Phillips,MIA,R,2036,99.6,sinker: +1 mph,1.45,cutter,0.94,1.45
+656945,Tanner Scott,LAD,L,963,115.4,slider: +3 in depth,1.44,sweeper,1.09,1.44
+656848,Michael Petersen,MIA,R,1129,101.5,slider: +1.5 mph,1.03,sweeper,1.44,1.44
+656427,Jack Flaherty,DET,R,1658,100.9,four-seamer: +1 mph,0.7,sweeper,1.44,1.44
+686930,Mason Barnett,ATH,R,909,102.7,four-seamer: +2 in ride,1.39,cutter,-1.81,1.39
+800311,Didier Fuentes,ATL,R,1206,117.6,four-seamer: +2 in arm-side run,0.34,sweeper,1.39,1.39
+543037,Gerrit Cole,NYY,R,1919,105.9,slider: +3 in depth,1.38,sweeper,0.4,1.38
+687911,Bryan King,HOU,L,1067,90.8,four-seamer: +2 in ride,1.35,curveball,0.08,1.35
+605135,Chris Bassitt,BAL,R,1730,94.6,cutter: +2 in cut,1.34,splitter,1.0,1.34
+687473,Ryan Gusto,MIA,R,1436,96.5,four-seamer: +1 mph,1.31,,,1.31
+656546,Jeff Hoffman,TOR,R,1210,113.9,four-seamer: +1 mph,1.29,sweeper,0.47,1.29
+608718,Brent Suter,LAA,L,1508,100.8,sinker: +2 in arm-side run,1.29,sweeper,0.03,1.29
+693855,Ian Seymour,TB,L,2120,93.0,four-seamer: +1 mph,1.29,curveball,0.07,1.29
+672782,Yoendrys Gómez,MIN,R,1123,110.0,four-seamer: +1 mph,1.07,curveball,1.29,1.29
+669062,Erik Miller,SF,L,969,105.7,slider: +1.5 mph,0.66,curveball,1.28,1.28
+677960,Ryan Weathers,NYY,L,2260,96.5,sinker: +1 mph,1.27,curveball,-0.2,1.27
+676083,Janson Junk,MIA,R,1980,103.5,four-seamer: +1 mph,1.27,cutter,-0.74,1.27
+544150,Albert Suárez,BAL,R,970,83.6,four-seamer: +1 mph,0.92,sweeper,1.27,1.27
+650556,Bryan Abreu,HOU,R,1093,110.9,slider: +1.5 mph,1.26,sweeper,-0.2,1.26
+669276,Dylan Lee,ATL,L,1033,101.9,slider: +1.5 mph,1.21,sweeper,1.23,1.23
+596133,Luke Weaver,NYM,R,885,105.5,four-seamer: +1 mph,1.23,sweeper,-0.26,1.23
+605488,Jeffrey Springs,ATH,L,2449,94.9,slider: +3 in depth,1.23,curveball,-1.3,1.23
+679883,Luinder Avila,KC,R,1293,103.4,sinker: +2 in arm-side run,1.17,sweeper,1.22,1.22
+687075,Brandon Sproat,MIL,R,1649,97.1,four-seamer: +2 in ride,1.19,,,1.19
+664141,JT Brubaker,SF,R,999,92.3,sinker: +1 mph,0.84,sweeper,1.16,1.16
+650644,Aaron Civale,ATH,R,1880,102.6,four-seamer: +1 mph,1.15,slider,-3.47,1.15
+669194,Ryne Nelson,AZ,R,1281,103.7,slider: +3 in depth,0.84,sweeper,1.14,1.14
+554430,Zack Wheeler,PHI,R,2649,106.4,four-seamer: +1 mph,1.14,,,1.14
+623211,Huascar Brazobán,NYM,R,1029,101.0,changeup: -1.5 mph (more separation),1.09,curveball,1.13,1.13
+682842,Abner Uribe,MIL,R,917,113.5,sinker: +2 in arm-side run,1.13,sweeper,-0.41,1.13
+660761,José Suarez,ATH,L,1031,86.2,four-seamer: +2 in arm-side run,0.36,sweeper,1.12,1.12
+594580,Sam Moll,CIN,L,1073,96.3,sinker: +1 mph,0.09,cutter,1.12,1.12
+663568,Stephen Kolek,KC,R,837,92.8,four-seamer: +2 in ride,1.12,,,1.12
+691725,Andrew Painter,PHI,R,2125,106.4,slider: +3 in depth,1.1,cutter,-0.37,1.1
+687396,Brent Headrick,NYY,L,1282,91.2,four-seamer: +1 mph,1.09,sweeper,0.92,1.09
+693433,Bryan Woo,SEA,R,2666,108.9,sinker: +2 in sink,1.09,curveball,0.52,1.09
+678606,José A. Ferrer,SEA,L,1079,117.6,changeup: -1.5 mph (more separation),0.23,curveball,1.09,1.09
+669199,Lake Bachar,MIA,R,1448,101.4,slider: +3 in depth,1.09,cutter,-2.76,1.09
+664299,Cristian Javier,HOU,R,1107,101.6,four-seamer: +1 mph,0.58,curveball,1.05,1.05
+669020,Ryan Rolison,CHC,L,990,94.9,four-seamer: +2 in ride,0.87,splitter,1.05,1.05
+813349,Connelly Early,BOS,L,1562,98.9,sinker: +1 mph,1.04,cutter,-0.0,1.04
+663567,Peter Lambert,HOU,R,2642,97.4,sinker: +1 mph,1.03,,,1.03
+686973,Louis Varland,TOR,R,1235,127.3,four-seamer: +2 in arm-side run,0.6,sweeper,1.02,1.02
+666171,Ryan Zeferjahn,CHC,R,1269,115.2,sinker: +2 in arm-side run,1.0,splitter,-4.36,1.0
+660825,Eduard Bazardo,SEA,R,1128,103.7,sinker: +1 mph,0.98,changeup,-1.18,0.98
+676974,Max Meyer,MIA,R,1789,109.5,sinker: +1 mph,0.75,curveball,0.97,0.97
+657514,Brennan Bernardino,COL,L,1001,98.0,sinker: +2 in arm-side run,0.62,sweeper,0.97,0.97
+607074,Carlos Rodón,NYY,L,1438,104.6,slider: +1.5 mph,0.96,sweeper,0.47,0.96
+656794,Sean Newcomb,CWS,L,1467,98.8,sinker: +1 mph,0.93,sweeper,-2.49,0.93
+571578,Patrick Corbin,TOR,L,1396,90.9,four-seamer: +2 in ride,0.88,sweeper,0.93,0.93
+702275,JR Ritchie,ATL,R,1278,98.5,four-seamer: +1 mph,0.91,sweeper,0.33,0.91
+670036,Matt Festa,CLE,R,1101,109.3,four-seamer: +2 in ride,0.9,curveball,0.69,0.9
+681870,Erik Sabrowski,CLE,L,820,100.3,four-seamer: +1 mph,0.8,sweeper,0.88,0.88
+571927,Steven Matz,TB,L,1341,101.0,sinker: +1 mph,0.87,sweeper,0.82,0.87
+669432,Trevor Rogers,BAL,L,2662,101.3,sinker: +1 mph,0.87,curveball,-1.31,0.87
+664991,Grant Wolfram,BAL,L,901,95.9,four-seamer: +2 in ride,0.87,,,0.87
+605280,Clay Holmes,NYM,R,1611,96.7,sinker: +1 mph,0.86,,,0.86
+689147,Orion Kerkering,PHI,R,1077,109.4,sinker: +1 mph,0.85,curveball,-3.69,0.85
+682608,Peyton Gray,TEX,R,944,104.8,four-seamer: +1 mph,0.85,sweeper,0.75,0.85
+642397,Gregory Soto,PIT,L,1153,99.9,four-seamer: +2 in ride,0.83,curveball,0.59,0.83
+681217,Chase Silseth,LAA,R,1082,95.7,four-seamer: +1 mph,0.82,curveball,0.07,0.82
+573124,Taylor Rogers,MIN,L,1066,104.2,sinker: +1 mph,0.82,curveball,-4.69,0.82
+656638,Alex Lange,KC,R,1135,92.0,slider: +3 in sweep,0.76,sweeper,0.82,0.82
+621112,Paul Blackburn,NYY,R,1234,96.9,changeup: +2 in fade,0.81,,,0.81
+681293,Spencer Arrighetti,HOU,R,1939,103.1,four-seamer: +2 in arm-side run,0.81,,,0.81
+669711,Greg Weissert,BOS,R,991,101.0,four-seamer: +1 mph,0.8,,,0.8
+641329,Bryan Baker,TB,R,969,116.6,four-seamer: +1 mph,0.78,sweeper,0.41,0.78
+694918,Blade Tidwell,SF,R,959,98.1,four-seamer: +1 mph,0.78,splitter,-1.0,0.78
+682254,Mason Montgomery,PIT,L,1169,111.6,four-seamer: +2 in arm-side run,-0.78,sweeper,0.77,0.77
+673513,Yuki Matsui,SD,L,1086,94.2,slider: +1.5 mph,0.56,sweeper,0.77,0.77
+689296,Anthony Nunez,BAL,R,993,114.9,four-seamer: +1 mph,0.75,curveball,-1.79,0.75
+670329,Rico Garcia,BAL,R,996,97.4,four-seamer: +1 mph,0.73,sweeper,0.25,0.73
+657746,Joe Ryan,MIN,R,2425,105.7,sweeper: +1.5 mph,-0.62,cutter,0.73,0.73
+622663,Luis Severino,ATH,R,1086,107.2,cutter: +2 in cut,0.73,curveball,0.54,0.73
+691587,Eury Pérez,MIA,R,2671,111.3,slider: +3 in depth,0.72,cutter,-1.26,0.72
+663978,Chris Paddack,MIA,R,1015,91.5,four-seamer: +2 in arm-side run,0.71,,,0.71
+690928,Hunter Dobbins,STL,R,931,97.9,four-seamer: +2 in ride,0.69,cutter,-0.34,0.69
+683004,Jack Leiter,TEX,R,1396,104.1,slider: +1.5 mph,0.68,sweeper,0.32,0.68
+663947,Tyler Holton,DET,L,1130,99.0,changeup: +2 in fade,0.28,curveball,0.67,0.67
+683618,Edgardo Henriquez,LAD,R,968,121.1,slider: +1.5 mph,0.47,sweeper,0.66,0.66
+663623,Jake Irvin,WSH,R,1939,96.6,sinker: +1 mph,0.65,,,0.65
+669084,DL Hall,MIL,L,980,108.1,sinker: +1 mph,0.65,cutter,-0.85,0.65
+677865,Justin Bruihl,STL,L,1314,107.4,sinker: +1 mph,0.65,cutter,-0.31,0.65
+573204,Caleb Thielbar,CHC,L,848,113.2,slider: +3 in depth,0.64,splitter,0.62,0.64
+622088,Tejay Antone,CIN,R,905,107.8,cutter: +2 in cut,0.62,,,0.62
+669713,Hayden Wesneski,HOU,R,898,95.5,four-seamer: +2 in ride,0.61,curveball,-2.06,0.61
+592773,Ryne Stanek,STL,R,1079,110.9,slider: +3 in depth,0.47,curveball,0.6,0.6
+595345,Steven Okert,HOU,L,1050,109.0,four-seamer: +1 mph,0.59,curveball,-0.65,0.59
+676617,Riley O'Brien,STL,R,1063,109.1,sweeper: +1.5 mph,-0.06,curveball,0.56,0.56
+606996,Kyle Hart,SD,L,1070,101.3,sinker: +1 mph,0.54,curveball,-0.04,0.54
+642121,Cole Sulser,TB,R,932,104.3,changeup: +2 in fade,0.54,slider,-1.89,0.54
+663767,Chase Shugart,PHI,R,867,107.3,sinker: +1 mph,0.52,curveball,0.16,0.52
+682227,Brandon Williamson,CIN,L,907,90.2,changeup: +2 in drop,0.52,,,0.52
+641835,Tim Mayza,PHI,L,1082,88.6,sinker: +1 mph,0.5,sweeper,-0.04,0.5
+687273,Quinn Mathews,STL,L,867,95.8,four-seamer: +1 mph,0.48,sweeper,0.4,0.48
+623474,Jimmy Herget,COL,R,946,103.8,,,curveball,0.48,0.48
+547973,Aroldis Chapman,BOS,L,841,123.6,sinker: +2 in arm-side run,0.45,sweeper,0.42,0.45
+687312,Gabriel Hughes,COL,R,1142,88.8,four-seamer: +2 in ride,0.45,,,0.45
+806188,Cade Gibson,MIA,L,876,103.9,sinker: +1 mph,0.41,cutter,-1.54,0.41
+680742,Jonathan Bowlan,PHI,R,954,116.2,four-seamer: +2 in arm-side run,0.41,curveball,-1.41,0.41
+592791,Jameson Taillon,CHC,R,1442,95.5,changeup: +2 in drop,0.4,,,0.4
+642701,Dennis Santana,PIT,R,929,92.1,four-seamer: +1 mph,0.36,sweeper,-0.17,0.36
+548384,Brooks Raley,NYM,L,820,111.4,sinker: +1 mph,0.33,curveball,-0.3,0.33
+702273,Noah Schultz,CWS,L,1262,95.6,sinker: +1 mph,0.33,curveball,-0.8,0.33
+681895,Evan Sisk,PIT,L,833,105.3,sinker: +2 in arm-side run,0.32,cutter,-1.06,0.32
+681810,Austin Warren,NYM,R,931,98.7,sinker: +1 mph,0.3,cutter,-2.1,0.3
+687330,Kevin Kelly,TB,R,981,92.3,,,curveball,0.3,0.3
+669456,Shane Bieber,TOR,R,930,98.2,changeup: +2 in fade,-0.03,sweeper,0.27,0.27
+670059,Colin Holderman,CLE,R,857,106.9,sinker: +2 in sink,0.18,cutter,-2.2,0.18
+518585,Fernando Cruz,NYY,R,944,108.6,four-seamer: +1 mph,0.07,curveball,-5.28,0.07
+671922,Cade Smith,CLE,R,1226,116.0,splitter: +2 in fade,0.03,curveball,-1.61,0.03
+676534,Calvin Faucher,MIA,R,1166,110.7,cutter: +2 in ride,0.03,changeup,-0.44,0.03
+695243,Mason Miller,SD,R,1136,131.0,four-seamer: +2 in arm-side run,0.03,curveball,0.02,0.03
+668964,Tobias Myers,NYM,R,836,110.8,,,sweeper,-0.01,-0.01
+689254,Mason Fluharty,TOR,L,1034,119.3,cutter: +1 mph,-0.05,,,-0.05
+663460,Kris Bubic,KC,L,876,97.9,changeup: +2 in fade,-0.09,curveball,-0.4,-0.09
+670167,John Schreiber,NYY,R,997,105.0,,,curveball,-0.21,-0.21
+681982,Grant Anderson,MIL,R,894,100.1,,,curveball,-0.24,-0.24
+643511,Tyler Rogers,TOR,R,1016,146.6,,,curveball,-0.62,-0.62
+663542,Bryan Hudson,CWS,L,1053,101.9,,,curveball,-0.63,-0.63
+623149,Paul Sewald,AZ,R,854,111.0,,,cutter,-1.53,-1.53
+657612,Tim Hill,NYY,L,815,116.0,,,,,
+668984,Casey Legumina,TB,R,1118,109.6,,,,,
